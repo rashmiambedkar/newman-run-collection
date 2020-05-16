@@ -7,7 +7,7 @@ var fs = require('fs'),
 newman.run({
     collection: require('./sample-collection.json'),
     environment: require('./environment.json'),
-    iterationData: '/Users/yuvraj/Downloads/newman/data_postman.csv',
+    iterationData: './data_postman.csv',
     reporters: 'cli'
 }).on('request', function (err, args) {
     if (!err) {
