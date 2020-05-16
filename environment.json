@@ -1,0 +1,19 @@
+{
+	"id": "6df92b44-5bc5-46dc-9779-2cbc27dcd47b",
+	"name": "Prod",
+	"values": [
+		{
+			"key": "auth",
+			"value": "Bearer SEFGSUJSHSSJSJHSHSJJSJKSHFHNBXJIOKJHHNCJ",
+			"enabled": true
+		},
+		{
+			"key": "host",
+			"value": "https://postman-echo.com",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2020-05-16T07:23:06.653Z",
+	"_postman_exported_using": "Postman/7.24.0"
+}
